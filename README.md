@@ -27,3 +27,5 @@ https://apps.apple.com/fr/app/onedrive/id823766827?mt=12
 https://www.videolan.org/vlc/
 
 https://www.alfredapp.com/
+
+https://desktop.github.com/
