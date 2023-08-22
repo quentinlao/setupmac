@@ -26,6 +26,14 @@ https://apps.apple.com/fr/app/onedrive/id823766827?mt=12
 
 https://www.videolan.org/vlc/
 
-https://www.alfredapp.com/
+https://www.raycast.com/
 
 https://desktop.github.com/
+
+brew install yarn
+
+brew install nvm
+
+brew --prefix nvm
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
