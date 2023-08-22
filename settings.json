@@ -1,0 +1,37 @@
+{
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 120,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.debug": true,
+  "eslint.lintTask.enable": true,
+  "editor.fontSize": 12,
+  "files.associations": {
+      "*.css": "scss"
+  },
+  "turboConsoleLog.logMessagePrefix": "🤯",
+  "turboConsoleLog.quote": "'",
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Default Dark Modern",
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.autoSave": "afterDelay"
+}
